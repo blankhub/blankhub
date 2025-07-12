@@ -1,12 +1,13 @@
-# zhuye_kim_HTML
+BlankHub
 
 > 🏠 每次打开浏览器都是回家
 
 仿 zhuye.kim 的简单导航主页 written in PURE HTML
+【本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助】
 
 ## 效果展示
 
-[Based on GitHub Page](https://idealclover.github.io/zhuye_kim_HTML/)
+[Based on GitHub Page](https://blankhub.github.io/blankhub/)
 
 [Based on my website](https://index.idealclover.cn/)
 
